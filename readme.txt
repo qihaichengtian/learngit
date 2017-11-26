@@ -6,4 +6,4 @@ Git has a mutable index calles stage.
 
 Git tracks changes;
 
-Create a new  branch is quick;
+Create a new  branch is quick and simple;
